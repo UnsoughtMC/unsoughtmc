@@ -1,4 +1,5 @@
-![Server Status](https://img.shields.io/badge/dynamic/json?color=blue&label=Server%20Status&query=%24.monitors%5B0%5D.status&url=https%3A%2F%2Fapi.uptimerobot.com%2Fv2%2FgetMonitors%3Fapi_key%3Du2718893-a07a25d15ba54f98da691e10%26monitor_ids%3D797927383&default=unknown)
+![Server Status](https://img.shields.io/badge/status-unknown-yellow.svg)  # Placeholder, will need to update manually
+
 
 
 
